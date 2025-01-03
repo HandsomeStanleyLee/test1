@@ -17,5 +17,12 @@ namespace test.Controllers
         {
             return "Hello";
         }
+
+
+        public string C()
+        {
+            return "Hello";
+        }
+
     }
 }
