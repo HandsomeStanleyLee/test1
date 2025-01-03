@@ -8,5 +8,10 @@ namespace test.Controllers
         {
             return View();
         }
+
+        public string hello()
+        {
+            return "Hello";
+        }
     }
 }
