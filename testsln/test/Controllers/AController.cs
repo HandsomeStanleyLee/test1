@@ -13,5 +13,9 @@ namespace test.Controllers
         {
             return "Hello";
         }
+        public string A()
+        {
+            return "Hello";
+        }
     }
 }
